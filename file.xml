@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<tasks>
+    <task>
+        <title>Commit to the new branch</title>
+    </task>
+    <task>
+        <title>Commit to master</title>
+    </task>
+    <task>
+        <title>Merge master commit into the new branch</title>
+    </task>
+</tasks>
